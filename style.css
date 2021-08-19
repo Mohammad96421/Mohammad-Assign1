@@ -1,0 +1,9 @@
+.active{
+    border-top-left-radius:50%;
+    border-bottom-right-radius:50%;
+}
+.active:hover{
+    background-color: black;
+    color: white;
+
+}
